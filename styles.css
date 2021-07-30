@@ -1,0 +1,28 @@
+body{
+    margin: auto 0;
+    font-size: 1rem;
+}
+/* Header Section */
+.header{
+    padding: 0.5rem;
+    border-bottom: 2px solid #b1b1b1;
+}
+.container{
+    margin-top: 2%;
+    margin-left: 3.125rem;
+    font-size: 13px;
+}
+/* Body Section */
+.skillbar{
+    height: 1.85rem;
+    margin-bottom: 1rem;
+}
+/* Footer Section */
+.footer{
+    margin: 2% 3%;
+    padding-top: 2rem;
+    color: #b1b1b1;
+    text-align: center;
+    font-size: 12px;
+    border-top: 2px solid #b1b1b1;
+}
